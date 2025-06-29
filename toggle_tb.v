@@ -4,7 +4,7 @@ module toggle_tb;
     reg clk = 0;
     reg rst = 0;
     wire out;
-
+ㄴㅇㄹㄴㅇㄹㄴ
     toggle uut (
         .clk(clk),
         .rst(rst),
